@@ -1,0 +1,12 @@
+C:\Users\Mahdi\source\repos\GestionProduit\Gp.Domain\bin\Debug\Gp.Domain.dll
+C:\Users\Mahdi\source\repos\GestionProduit\Gp.Domain\bin\Debug\Gp.Domain.pdb
+C:\Users\Mahdi\source\repos\GestionProduit\Gp.Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Mahdi\source\repos\GestionProduit\Gp.Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\source\repos\GestionProduit\Gp.Domain\obj\Debug\Gp.Domain.dll
+C:\Users\Mahdi\source\repos\GestionProduit\Gp.Domain\obj\Debug\Gp.Domain.pdb
+C:\Users\Mahdi\source\repos\GestionProduit\Gp.Domain\bin\Debug\Gp.Domain.dll.config
+C:\Users\Mahdi\source\repos\GestionProduit\Gp.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Mahdi\source\repos\GestionProduit\Gp.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mahdi\source\repos\GestionProduit\Gp.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Mahdi\source\repos\GestionProduit\Gp.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mahdi\source\repos\GestionProduit\Gp.Domain\obj\Debug\Domain.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\Mahdi\source\repos\GestionProduit\Gp.Domain\bin\Debug\Gp.Domain.dll
+C:\Users\Mahdi\source\repos\GestionProduit\Gp.Domain\bin\Debug\Gp.Domain.pdb
+C:\Users\Mahdi\source\repos\GestionProduit\Gp.Domain\obj\Debug\Gp.Domain.csprojAssemblyReference.cache
+C:\Users\Mahdi\source\repos\GestionProduit\Gp.Domain\obj\Debug\Gp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\source\repos\GestionProduit\Gp.Domain\obj\Debug\Gp.Domain.dll
+C:\Users\Mahdi\source\repos\GestionProduit\Gp.Domain\obj\Debug\Gp.Domain.pdb

@@ -1,0 +1,10 @@
+C:\Users\Mahdi\source\repos\GestionProduit\Gp.Console\bin\Debug\Gp.Console.exe.config
+C:\Users\Mahdi\source\repos\GestionProduit\Gp.Console\bin\Debug\Gp.Console.exe
+C:\Users\Mahdi\source\repos\GestionProduit\Gp.Console\bin\Debug\Gp.Console.pdb
+C:\Users\Mahdi\source\repos\GestionProduit\Gp.Console\bin\Debug\Gp.Domain.dll
+C:\Users\Mahdi\source\repos\GestionProduit\Gp.Console\bin\Debug\Gp.Domain.pdb
+C:\Users\Mahdi\source\repos\GestionProduit\Gp.Console\obj\Debug\Gp.Console.csprojAssemblyReference.cache
+C:\Users\Mahdi\source\repos\GestionProduit\Gp.Console\obj\Debug\Gp.Console.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\source\repos\GestionProduit\Gp.Console\obj\Debug\Gp.Console.csproj.CopyComplete
+C:\Users\Mahdi\source\repos\GestionProduit\Gp.Console\obj\Debug\Gp.Console.exe
+C:\Users\Mahdi\source\repos\GestionProduit\Gp.Console\obj\Debug\Gp.Console.pdb
